@@ -11,7 +11,7 @@
 
 ## TOOLS
 <a href="https://getbootstrap.com/">Bootstrap</a>
-<a herf="https://www.php.net/">php</a>
-<a herf="https://www.mysql.com/">My Sql</a>
-<a herf="https://httpd.apache.org/">Sever Lokal Apache</a>
+<a href="https://www.php.net/">php</a>
+<a href="https://www.mysql.com/">My Sql</a>
+<a href="https://httpd.apache.org/">Sever Lokal Apache</a>
 
