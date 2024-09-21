@@ -1,6 +1,6 @@
 # Implementasi CRUD menggunakan PHP OOP
 ## Database
-
+<a href="pweb2.sql">Database</a>
 ## TASK
 <ul>
   <li>Create an OOP-based View, by retrieving data from the MySQL database</li>
